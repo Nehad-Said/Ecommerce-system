@@ -1,17 +1,17 @@
 # E-commerce Management System
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [System Architecture](#system-architecture)
-- [System Flow](#system-flow)
-- [Class Diagram](#class-diagram)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Error Handling](#error-handling)
+- Overview
+- Features
+- System Architecture
+- System Flow
+- Class Diagram
+- Prerequisites
+- Installation
+- Project Structure
+- Usage
+- Testing
+- Error Handling
 
 ## 🎯 Overview
 
