@@ -9,7 +9,6 @@
 - Prerequisites
 - Installation
 - Project Structure
-- Usage
 - Testing
 - Error Handling
 
@@ -257,26 +256,6 @@ javac -d bin -cp src src/com/ecommerce/*.java src/com/ecommerce/*/*.java src/com
 
 # Run the demo
 java -cp bin com.ecommerce.ECommerceDemo
-```
-
-
-### Example Usage
-```java
-// Create products
-Cheese cheese = new Cheese("Cheese", 100.0, 10, LocalDate.now().plusDays(7), 200.0);
-TV tv = new TV("TV", 500.0, 3, 5000.0);
-
-// Create customer and cart
-Customer customer = new Customer("John Doe", 1000.0);
-Cart cart = new Cart();
-
-// Add items to cart
-cart.addItem(cheese, 2);
-cart.addItem(tv, 1);
-
-// Process checkout
-CheckoutService checkoutService = new CheckoutService();
-checkoutService.processCheckout(customer, cart);
 ```
 
 ## 🧪 Testing
