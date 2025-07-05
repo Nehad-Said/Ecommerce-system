@@ -295,26 +295,13 @@ checkoutService.processCheckout(customer, cart);
 java -cp bin com.ecommerce.ECommerceDemo
 ```
 
-### Expected Output
-```
-=== E-Commerce System Demo ===
-Customer: John Doe (Balance: $1000.0)
+### Terminal Output
 
---- Demo 1: Successful Checkout ---
-** Shipment notice **
-1x Cheese 200.0g
-1x Biscuits 350.0g
-Total package weight 0.55kg
+The following screenshots demonstrate the system in action, including successful checkout, error handling for expired products, out-of-stock items, and more.
 
-** Checkout receipt **
-2x Cheese 200
-1x Biscuits 150
-----------------------
-Subtotal 350
-Shipping 21
-Amount 371
-Customer balance after payment: $629.0
-```
+<img width="1882" height="945" alt="Image" src="https://github.com/user-attachments/assets/68f00274-4236-4455-8453-9d919fbd13ff" />
+
+<img width="1920" height="854" alt="Image" src="https://github.com/user-attachments/assets/b398c40c-8866-452e-809f-ebec6c91e5c4" />
 
 ## ⚠️ Error Handling
 
