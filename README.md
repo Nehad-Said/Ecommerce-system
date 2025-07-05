@@ -351,4 +351,4 @@ The following screenshots demonstrate the system in action, including successful
 ---
 
 **Version**: 1.0.0    
-**Maintainer**: Nehad Said
+**Maintainer**: Nehad Said - nehadabasit.software@gmail.com
